@@ -11,7 +11,7 @@ dict = {
 """
 The base substitution cost table. 
 dict['A']['C'] represents the cost of replacing an A base with a C base.
-dict['N']'['C'] reprents the cost of adding a C base
+dict['N']'['C'] represents the cost of adding a C base
 """
 
 
